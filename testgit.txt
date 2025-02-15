@@ -1,3 +1,5 @@
 Hi this is first commit of testgit file
 
-adding statement for second commit to test branc 2 test
+adding statement for second commit to test branc 2 testgit
+
+done morechangesgit
